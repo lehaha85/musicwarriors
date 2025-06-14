@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-audiocraft
-torch
-scipy
 numpy
+scipy
 pydub
+torch==2.0.1
+torchaudio==2.0.2
